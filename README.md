@@ -1,4 +1,4 @@
-# Anime-GAN
+# Anime-GAN 🐱‍👤😍
 this is a Deep Convolutional GAN (DCGAN) to generate Anime Faces!
 here I used a deep 5 Conv2D layers for Discriminator and a 5 layers ConvTranspos2D for Generator,
 
